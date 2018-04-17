@@ -8,10 +8,6 @@
 # data = ' '.join(data)
 # print(data)
 
-# import sys
-# w = sys.argv[1].split(',')
-# last = w.pop()
-# print(', '.join(w).capitalize() + ' и ' + last)
 
 import sys
 
